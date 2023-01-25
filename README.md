@@ -2,9 +2,12 @@
 The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
 
 Environment
+
 JAVA 11
 Maven
 Junit (Unit Testing)
+
+
 Build & Run
 build: mvn clean install - a compiled jar will be available in target folder and use following
 commands java -jar ioof-robot-1.0-SNAPSHOT.jar to run from jar file.
